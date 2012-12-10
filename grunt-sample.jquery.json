@@ -1,0 +1,26 @@
+{
+  "name": "grunt-sample",
+  "title": "Sample Grunt jQuery Plugin",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gruntjs/grunt-init-jquery-sample",
+  "author": {
+    "name": "\"Cowboy\" Ben Alman",
+    "url": "http://benalman.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gruntjs/grunt-init-jquery-sample.git"
+  },
+  "bugs": "https://github.com/gruntjs/grunt-init-jquery-sample/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gruntjs/grunt-init-jquery-sample/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
